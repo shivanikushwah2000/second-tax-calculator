@@ -1,0 +1,25 @@
+table {
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  border-radius: 5px;
+  background-color: silver;
+}
+#subBtn {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5px;
+}
+#taxBtn {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5px;
+}
+#gtotalBtn {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 5px;
+}
